@@ -24,6 +24,7 @@ This is a simple and responsive English Dictionary web application built using *
    cd english-dictionary-app
 
    english-dictionary-app/
+   
 ├── index.html        # HTML structure
 ├── index.js          # JavaScript logic
 ├── tailwind.min.css  # Tailwind CSS (via CDN)
